@@ -1,0 +1,20 @@
+{
+  "name": "ls-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erdang/ls-tools.git"
+  },
+  "author": "lisai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erdang/ls-tools/issues"
+  },
+  "homepage": "https://github.com/erdang/ls-tools#readme",
+  "devDependencies": {}
+}
